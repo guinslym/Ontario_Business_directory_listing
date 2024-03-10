@@ -11,6 +11,8 @@ avatar = "/images/avatar.webp"
 featured = true
 +++
 
+
+
 # Unveiling "Shooting Genjitsu": An Exclusive Interview with Game Developer Ishan Maduranga
 
 ![Shooting Genjitsu, An anime themed shooting multiplayer game](/images/genjitsu.webp)

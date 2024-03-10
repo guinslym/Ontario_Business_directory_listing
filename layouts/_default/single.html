@@ -1,15 +1,12 @@
 {{define "main"}}
+
 <div class="single">
     <div class="singleHead">
         <div class="singleHeadTexts">
             <h1 class="singleHeadTitle">{{.Title}}</h1>
             <p class="singleHeadDesc">{{.Params.description}}</p>
             <div class="singleHeadDetail">
-                <img src={{.Params.avatar}} loading="lazy" alt="" class="singleAvatar">
-                <span>{{ range (.GetTerms "authors")}}
-                    <a href={{.Permalink}}>{{.Name}}</a>
-                    {{end}}
-                </span >
+                
                 {{ range (.GetTerms "categories")}}
                     <a href={{.Permalink}} class="singleCategory">{{.Name}}</a>
                     {{end}}
@@ -19,7 +16,6 @@
                     {{end}}
                 </div>
             </div>
-            <time>{{ dateFormat .Site.Params.dateFormat .Date}}</time>
         </div>
         <img src="{{.Params.imageBig}}" alt={{.Title}} class="singleHeadImage">
     </div>
@@ -29,6 +25,8 @@
             {{ partial "rightBar" . }}
         </div>  */}}
     </div>
+
+    <h3 style="color:#E9E9E9"> <a href="https://capitalpaintingservices.ca/" target="_blank">Capital Parking lot line Painting CPLS </a>is the  Best parking lot striping company in Toronto</h3>
     <script src="https://giscus.app/client.js"
         data-repo="randilt/cyberscourge-hub"
         data-repo-id="R_kgDOKxhNbQ"
