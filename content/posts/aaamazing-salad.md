@@ -2,8 +2,7 @@
 title = "Toronto Business Directory - AAamazing Salad"
 date = 2024-01-24
 draft = false
-description = "Order on-line , pick up in store!  
-We can also deliver to you!"
+description = "Order on-line , pick up in store!  We can also deliver to you!"
 image = "/images/Restaurant.webp"
 imageBig = "/images/Restaurant.webp"
 categories = ["Restaurants"]

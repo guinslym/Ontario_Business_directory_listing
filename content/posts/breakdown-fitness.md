@@ -2,8 +2,7 @@
 title = "Toronto Business Directory - Breakdown Fitness"
 date = 2024-03-03
 draft = false
-description = "Private personal training, downtown Toronto. Helping riverside and 
-leslieville. Workouts that fit your schedule"
+description = "Private personal training, downtown Toronto. Helping riverside and  leslieville. Workouts that fit your schedule"
 image = "/images/fitness.webp"
 imageBig = "/images/fitness.webp"
 categories = ["Fitness", "Health"]

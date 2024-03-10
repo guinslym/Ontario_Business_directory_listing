@@ -2,8 +2,7 @@
 title = "Toronto Business Directory - Ardo"
 date = 2024-01-21
 draft = false
-description = "ARDO Restaurant, named one of Toronto Life's favourite Italian restaurants, 
-is located at 243 King Street East."
+description = "ARDO Restaurant, named one of Toronto Life's favourite Italian restaurants, is located at 243 King Street East."
 image = "/images/Restaurant.webp"
 imageBig = "/images/Restaurant.webp"
 categories = ["Restaurants"]
