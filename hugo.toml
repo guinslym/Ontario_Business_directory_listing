@@ -1,11 +1,11 @@
-baseURL = 'https://blog.randiltharusha.me/'
+baseURL = 'https://www.torontobusinessdirectory.com/'
 languageCode = 'en-us'
-title = 'Cyberscourge Hub | Tech Insights for the Digital Age'
+title = 'We the North | Toronto Business Listings'
 paginate = 8
 
 [params]
-    dateFormat = "January 2, 2006"
-    description = "Discover coding tips, web development tutorials, programming concepts, and insightful game reviews on our tech blog. Stay updated with the latest in the tech world."
+    dateFormat = "October 2, 2023"
+    description = "Discover Toronto Business Listings"
 
 
 [taxonomies]
