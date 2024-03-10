@@ -40,7 +40,7 @@ images={
 with open('enhanced_business_listings.json', 'r') as f:
     businesses = json.load(f)
 
-for business in businesses[0:20]:
+for business in businesses:
     # Generate a slug from the business name
     slug = slugify(business['name'])
     filename = f'{slug}.md'
